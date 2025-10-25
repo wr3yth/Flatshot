@@ -67,6 +67,10 @@ the output "flat-yourproject.md" will look like this:
 OMG read me please.
 
 ---
+### `assets\script.js`
+---js
+console.log("hello nerd!")
+
 ### `assets\styles.css`
 ---css
 :root{
