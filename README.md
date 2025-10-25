@@ -2,7 +2,7 @@
 Feed entire projects into LLMs or any other kinds of AI, without any extra mess. Flatshot flattens any project into a single file. designed to ignore irrelevant files and make a machine/human-readable file.
 
 
-##🚀 Installation
+## 🚀 Installation
 
 Clone this repository and/or copy flatshot.py into your project root.
 
@@ -23,9 +23,11 @@ the output "flat-yourproject.md" will look like this:
 # 📦 flatshot Project Snapshot
 
 **Generated:** 2025-10-26 00:20:59
-
-## raw structure
 ```
+```
+## raw structure
+
+
 ├── assets
 │   ├── script.js
 │   └── styles.css
@@ -76,10 +78,12 @@ when you put the flatshot.py in your project's main folder, run it from command 
 that's it!
 
 ```
+```
 🚀 flatshot running... [██████████████████████████████] 100.0%
 ✨ Output saved as: flat-yourproject.md
 📂 C:\Users\yourname\yourproject
 ⏱️  Completed in 0.07 seconds
+```
 ```
 the output "flat-yourproject.md" will look like this:
 
