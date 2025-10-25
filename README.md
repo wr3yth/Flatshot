@@ -1,8 +1,14 @@
 # Flatshot
-Feed entire projects into LLMs or any other kinds of AI, without any extra mess. Flatshot flattens any project into a single file. designed to ignore irrelevant files and make a machine/human-readable file.
+Feed entire projects into LLMs or any other kinds of AI, without any extra mess. Flatshot flattens any project into a single file. designed to ignore irrelevant files and make a machine/human-readable file.  
+
+# Table of Contents
+- [Installation](#installation)
+- [Requirements](#Requirements)
+- [Result](#Result)
+- [configuration](#configuration)
 
 
-## 🚀 Installation
+# Installation
 
 Clone this repository and/or copy flatshot.py into your project root.
 ```
@@ -20,9 +26,11 @@ that's it!
 📂 C:\Users\yourname\yourproject
 ⏱️  Completed in 2.06 seconds
 ```
-## Requirements
+# Requirements
 
 you'll need to have ==python== installed before using Flatshot.  
+
+# Result
 
 the output "flat-yourproject.md" will look like this:
 
@@ -119,7 +127,7 @@ copied again random content
 
 ```
 
-###  configurations:
+# configuration
 
 use ```-c``` or ```--config``` to tell ==Flatshot.py== to create a config file called ==flatconf.config==.  
 
