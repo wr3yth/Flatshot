@@ -34,17 +34,9 @@ you'll need to have *python* installed before using Flatshot.
 
 # Result
 
-
+the output "flat-yourproject.md" will look like this:
 <details>
-<summary>the output "flat-yourproject.md" will look like this:</summary>
-
-Your hidden content here.
-
-- Can include
-- Markdown
-- **formatting**
-
-
+<summary>expand</summary>
 
 ```.md
 # 📦 flatshot Project Snapshot
