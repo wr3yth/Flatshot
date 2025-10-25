@@ -23,8 +23,7 @@ the output "flat-yourproject.md" will look like this:
 # 📦 flatshot Project Snapshot
 
 **Generated:** 2025-10-26 00:20:59
-```
-```
+
 ## raw structure
 
 
@@ -43,11 +42,11 @@ the output "flat-yourproject.md" will look like this:
 │   ├── random file
 │   └── random file 2
 └── readme.txt
-```
 
----
+
+
 ### `index.html`
-```html
+---html
 !<!DOCTYPE html>
 <html>
     <head>
@@ -59,11 +58,11 @@ the output "flat-yourproject.md" will look like this:
         <script src="/assets/script.js" async defer></script>
     </body>
 </html>
-```
+
 
 ---
 ### `readme.txt`
-```txt
+---txt
 # Flatshot
 Feed entire projects into LLMs or any other kinds of AI, without any extra mess. Flatshot flattens any project into a single file. designed to ignore irrelevant files and make a machine/human-readable file.
 
@@ -77,75 +76,69 @@ when you put the flatshot.py in your project's main folder, run it from command 
 ```python flatshot.py```
 that's it!
 
-```
-```
+
+
 🚀 flatshot running... [██████████████████████████████] 100.0%
 ✨ Output saved as: flat-yourproject.md
 📂 C:\Users\yourname\yourproject
 ⏱️  Completed in 0.07 seconds
-```
-```
+
+
 the output "flat-yourproject.md" will look like this:
 
-```
-
-```
-
-
-```
 
 ---
 ### `assets\script.js`
-```js
+---js
 console.log("hello nerd!")
-```
+
 
 ---
 ### `assets\styles.css`
-```css
+---css
 :root{
     background-color: aqua;
 }
 p{
     font-size: large;
 }
-```
+
 
 ---
 ### `random folder\random file`
-```
+
 random content
-```
+
 
 ---
 ### `random folder\random file 2`
-```
+
 random more content
-```
+
 
 ---
 ### `random folder\another random folder\yet another\random file`
-```
-random content
-```
 
----
-### `random folder\another random folder\yet another another\random file`
-```
 random content
-```
+
+
+
+### `random folder\another random folder\yet another another\random file`
+
+random content
+
 
 ---
 ### `random folder\another random folder\yet another another\random file copy`
-```
+
 copied random content
-```
+
 
 ---
 ### `random folder\another random folder\yet another another\random file copy 2`
-```
+
 copied again random content
-```
+
 
 
 ```
