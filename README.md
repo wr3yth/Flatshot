@@ -58,19 +58,15 @@ the output "flat-yourproject.md" will look like this:
         <script src="/assets/script.js" async defer></script>
     </body>
 </html>
-
-
 ---
 ### `readme.txt`
 ---txt
-
 OMG read me please.
-
 ---
 ### `assets\script.js`
 ---js
 console.log("hello nerd!")
-
+---
 ### `assets\styles.css`
 ---css
 :root{
@@ -79,14 +75,10 @@ console.log("hello nerd!")
 p{
     font-size: large;
 }
-
-
 ---
 ### `random folder\random file`
 
 random content
-
-
 ---
 ### `random folder\random file 2`
 
