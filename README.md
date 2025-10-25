@@ -6,6 +6,7 @@ Feed entire projects into LLMs or any other kinds of AI, without any extra mess.
 - [Requirements](#Requirements)
 - [Result](#Result)
 - [configuration](#configuration)
+- [Developer](#Developer)
 
 
 # Installation
@@ -151,5 +152,9 @@ python flatshot.py -c
 
   adding another argument to just delete the config and ==NOT== run the program didn't have a point so I didn't implement it!
 
+# developer  
 
+made by me! 
 
+visit my website: https://coughy.net
+and find a way to buy me a coffe xD
