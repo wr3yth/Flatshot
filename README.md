@@ -28,7 +28,7 @@ that's it!
 ```
 # Requirements
 
-you'll need to have ==python== installed before using Flatshot.  
+you'll need to have *python* installed before using Flatshot.  
 
 # Result
 
@@ -129,7 +129,7 @@ copied again random content
 
 # configuration
 
-use ```-c``` or ```--config``` to tell ==Flatshot.py== to create a config file called ==flatconf.config==.  
+use ```-c``` or ```--config``` to tell **Flatshot.py** to create a config file called **flatconf.config**.  
 
 ```input
 python flatshot.py -c
@@ -140,7 +140,7 @@ Default configuration is designed to be fast and ignore large files.
 Press Y to continue with default settings, or N to halt and edit flatConf.config.
 ```
 
-in this stage, you can proceed with default config with ==y==, or use ==n== to halt the process and tweak ==flatconf.config==; it is super simple to read and edit. 
+in this stage, you can proceed with default config with **y**, or use **n** to halt the process and tweak **flatconf.config**; it is super simple to read and edit. 
 after tweaking the config, you can use ```python flatshot.py -c``` again to use the config file or just run it without ```-c``` to ignore configs.
 
 using use ```-r``` or ```--reset``` resets the config file, then asks if user wants to continue with default settings, or halt and edit the fresh ==flatConf.config==. 
