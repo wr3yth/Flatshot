@@ -1,6 +1,7 @@
 # Flatshot
 Feed entire projects into LLMs or any other kinds of AI, without any extra mess. Flatshot flattens any project into a single file. designed to ignore irrelevant files and make a machine/human-readable file.  
 
+
 # Table of Contents
 - [Installation](#installation)
 - [Requirements](#Requirements)
@@ -33,7 +34,17 @@ you'll need to have *python* installed before using Flatshot.
 
 # Result
 
-the output "flat-yourproject.md" will look like this:
+
+<details>
+<summary>the output "flat-yourproject.md" will look like this:</summary>
+
+Your hidden content here.
+
+- Can include
+- Markdown
+- **formatting**
+
+
 
 ```.md
 # 📦 flatshot Project Snapshot
@@ -124,9 +135,9 @@ copied random content
 
 copied again random content
 
-
-
 ```
+</details>  
+
 
 # configuration
 
